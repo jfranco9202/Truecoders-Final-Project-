@@ -1,0 +1,40 @@
+
+
+
+body{
+    color: black;
+    
+}
+
+h1{
+    color: black;
+}
+.email{
+    color:brown;
+    outline: crimson;
+    bottom: 10em;
+
+}
+
+#para1{
+    text-align: center;
+    color: black;
+}
+
+.center{
+    text-align: center;
+    color: black;
+}
+
+.top{
+    background-image: url(https://swall.teahub.io/photos/small/282-2820540_background-image-for-html-page.jpg)
+}
+
+/* .bottom{
+    background-image: (https://t3.ftcdn.net/jpg/02/28/25/40/360_F_228254092_BdRVxE6qR15CvTBVId4hFboTz6qRbygd.jpg);
+} */
+
+*{
+    align-items: center;
+    text-align: center;
+}
